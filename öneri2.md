@@ -75,3 +75,5 @@ Kullanım: /quote
 Açıklama: Belirli bir süre sonra hatırlatma mesajı gönderir.
 Kullanım: /reminder süre mesaj
 Örnek: /reminder 10m Su içmeyi unutma!
+
+# discord.gg/codeblog
